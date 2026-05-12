@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a researcher at the Artificial Intelligence and Machine Learning (AIML) Lab and hessian.AI in Darmstadt, working with Prof. Dr. Kristian Kersting.
+I am currently a researcher at the [Artificial Intelligence and Machine Learning (AIML) Lab](https://www.aiml.informatik.tu-darmstadt.de/) and [hessian.AI](https://hessian.ai/) in Darmstadt, working with [Prof. Dr. Kristian Kersting](https://www.aiml.informatik.tu-darmstadt.de/people/kkersting).
 
 My research interests include computer vision, interpretable learning, agentic AI, robotics, and learning systems that connect perception, reasoning, and action.
 

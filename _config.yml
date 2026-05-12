@@ -29,6 +29,11 @@ author:
   bio              : "Researcher at AIML / hessian.AI working on computer vision, interpretable learning, agentic AI, and robotics."
   location         : "Darmstadt, Germany"
   employer         : "AIML Lab, hessian.AI"
+  employer_links:
+    - label: "AIML Lab"
+      url: "https://www.aiml.informatik.tu-darmstadt.de/"
+    - label: "hessian.AI"
+      url: "https://hessian.ai/"
   uri              : "https://example.com"
   email            :
 

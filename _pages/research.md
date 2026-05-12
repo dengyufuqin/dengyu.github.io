@@ -21,7 +21,12 @@ Research Directions
 Current Affiliation
 ======
 
-I am currently at the Artificial Intelligence and Machine Learning (AIML) Lab and hessian.AI in Darmstadt, working with Prof. Dr. Kristian Kersting.
+I am currently at the [Artificial Intelligence and Machine Learning (AIML) Lab](https://www.aiml.informatik.tu-darmstadt.de/) and [hessian.AI](https://hessian.ai/) in Darmstadt, working with [Prof. Dr. Kristian Kersting](https://www.aiml.informatik.tu-darmstadt.de/people/kkersting).
+
+Profiles
+======
+
+* [Google Scholar](https://scholar.google.com/citations?user=AiBmRA4AAAAJ&hl=zh-CN)
 
 Education
 ======
