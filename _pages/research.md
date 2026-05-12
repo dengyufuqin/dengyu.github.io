@@ -18,18 +18,18 @@ My work sits at the intersection of computer vision, robotics, interpretable lea
 ## Selected Papers
 
 * **Kintsugi: Learning Policies by Repairing Executable Knowledge Bases.**<br>
-  Teng Cao*, <strong><u>Yu Deng</u></strong>*, Hikaru Shindo*, Quentin Delfosse, Lanxi Wen, Suli Wang, Jannis Blueml, Christopher Tauchmann, Kristian Kersting.<br>
+  Teng Cao<sup>*</sup>, <strong><u>Yu Deng</u></strong><sup>*</sup>, Hikaru Shindo<sup>*</sup>, Quentin Delfosse, Lanxi Wen, Suli Wang, Jannis Blueml, Christopher Tauchmann, Kristian Kersting.<br>
   arXiv 2026. [arXiv](https://arxiv.org/abs/2605.09487)
 
 * **Robot-DIFT: Distilling Diffusion Features for Geometrically Consistent Visuomotor Control.**<br>
-  <strong><u>Yu Deng</u></strong>*, Yufeng Jin*, Xiaogang Jia, Jiahong Xue, Gerhard Neumann, Georgia Chalvatzaki.<br>
+  <strong><u>Yu Deng</u></strong><sup>*</sup>, Yufeng Jin<sup>*</sup>, Xiaogang Jia, Jiahong Xue, Gerhard Neumann, Georgia Chalvatzaki.<br>
   arXiv 2026. [arXiv](https://arxiv.org/abs/2602.11934)
 
 * **STORM: Segment, Track, and Object Re-Localization from a Single Image.**<br>
-  <strong><u>Yu Deng</u></strong>*, Teng Cao*, Hikaru Shindo, Jiahong Xue, Quentin Delfosse, Kristian Kersting.<br>
+  <strong><u>Yu Deng</u></strong><sup>*</sup>, Teng Cao<sup>*</sup>, Hikaru Shindo, Jiahong Xue, Quentin Delfosse, Kristian Kersting.<br>
   ICML 2026. [arXiv](https://arxiv.org/abs/2511.09771)
 
-<small>* Equal contribution.</small>
+<small><sup>*</sup> Equal contribution.</small>
 
 ## Affiliation
 
