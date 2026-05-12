@@ -23,4 +23,4 @@ My work is centered on building reliable, interpretable, and embodied AI systems
 * **Agentic AI:** autonomous systems that plan, reason, use tools, and adapt through interaction.
 * **Robotics:** perception-driven decision making for embodied agents and robotic systems.
 
-For a focused overview of my research directions, see the [Research page](/research/).
+For a focused overview of my research directions, see the [Research page]({{ '/research/' | relative_url }}).
