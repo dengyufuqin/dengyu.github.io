@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "dengyu"
+title                    : "Yu Deng"
 title_separator          : "-"
-name                     : &name "dengyu"
+name                     : &name "Yu Deng"
 description              : &description "Personal academic website focused on computer vision, interpretable learning, agentic AI, and robotics."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://dengyufuqin.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,17 +24,19 @@ repository               : "dengyufuqin/dengyu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "dengyu"
+  name             : "Yu Deng"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher at AIML / hessian.AI working on computer vision, interpretable learning, agentic AI, and robotics."
+  bio              : "Researcher at AIML, hessian.AI, and JAIF working on computer vision, robotics, interpretable learning, and agentic AI."
   location         : "Darmstadt, Germany"
-  employer         : "AIML Lab, hessian.AI"
+  employer         : "AIML Lab, hessian.AI, JAIF"
   employer_links:
     - label: "AIML Lab"
       url: "https://www.aiml.informatik.tu-darmstadt.de/"
     - label: "hessian.AI"
       url: "https://hessian.ai/"
-  uri              : "https://example.com"
+    - label: "JAIF"
+      url: "https://www.fz-juelich.de/en/jsc/jupiter/jaif-jupiter-ai-factory"
+  uri              :
   email            :
 
   # Academic websites
