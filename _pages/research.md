@@ -15,19 +15,16 @@ My work sits at the intersection of computer vision, robotics, interpretable lea
 
 **Interpretable and agentic AI.** I am interested in executable knowledge bases, repairable policies, tool-using agents, and verifier-guided learning systems.
 
-## Selected Papers
+## Research
 
-* **Kintsugi: Learning Policies by Repairing Executable Knowledge Bases.**<br>
-  Teng Cao<sup>*</sup>, <strong><u>Yu Deng</u></strong><sup>*</sup>, Hikaru Shindo<sup>*</sup>, Quentin Delfosse, Lanxi Wen, Suli Wang, Jannis Blueml, Christopher Tauchmann, Kristian Kersting.<br>
-  arXiv 2026. [[arXiv](https://arxiv.org/abs/2605.09487)]
+* **Kintsugi: Learning Policies by Repairing Executable Knowledge Bases.** *arXiv 2026.* [[arXiv](https://arxiv.org/abs/2605.09487)]<br>
+  Teng Cao<sup>*</sup>, <strong><u>Yu Deng</u></strong><sup>*</sup>, Hikaru Shindo<sup>*</sup>, Quentin Delfosse, Lanxi Wen, Suli Wang, Jannis Blueml, Christopher Tauchmann, Kristian Kersting.
 
-* **Robot-DIFT: Distilling Diffusion Features for Geometrically Consistent Visuomotor Control.**<br>
-  <strong><u>Yu Deng</u></strong><sup>*</sup>, Yufeng Jin<sup>*</sup>, Xiaogang Jia, Jiahong Xue, Gerhard Neumann, Georgia Chalvatzaki.<br>
-  arXiv 2026. [[arXiv](https://arxiv.org/abs/2602.11934)]
+* **Robot-DIFT: Distilling Diffusion Features for Geometrically Consistent Visuomotor Control.** *arXiv 2026.* [[arXiv](https://arxiv.org/abs/2602.11934)]<br>
+  <strong><u>Yu Deng</u></strong><sup>*</sup>, Yufeng Jin<sup>*</sup>, Xiaogang Jia, Jiahong Xue, Gerhard Neumann, Georgia Chalvatzaki.
 
-* **STORM: Segment, Track, and Object Re-Localization from a Single Image.**<br>
-  <strong><u>Yu Deng</u></strong><sup>*</sup>, Teng Cao<sup>*</sup>, Hikaru Shindo, Jiahong Xue, Quentin Delfosse, Kristian Kersting.<br>
-  ICML 2026. [[arXiv](https://arxiv.org/abs/2511.09771)]
+* **STORM: Segment, Track, and Object Re-Localization from a Single Image.** *ICML 2026.* [[arXiv](https://arxiv.org/abs/2511.09771)]<br>
+  <strong><u>Yu Deng</u></strong><sup>*</sup>, Teng Cao<sup>*</sup>, Hikaru Shindo, Jiahong Xue, Quentin Delfosse, Kristian Kersting.
 
 <small><sup>*</sup> Equal contribution.</small>
 
