@@ -7,19 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+## About
 
 I am **Yu Deng**, a Ph.D. candidate at the [Artificial Intelligence and Machine Learning (AI/ML) Lab](https://www.aiml.informatik.tu-darmstadt.de/), [hessian.AI](https://hessian.ai/), and the [JUPITER AI Factory (JAIF)](https://www.fz-juelich.de/en/jsc/jupiter/jaif-jupiter-ai-factory) in Darmstadt. My supervisor is [Prof. Dr. Kristian Kersting](https://www.aiml.informatik.tu-darmstadt.de/people/kkersting).
 
 My research focuses on computer vision and robotics, with an emphasis on object-centric 3D perception, geometrically consistent visuomotor control, and interpretable agentic systems.
 
-## Research Interests
-
-* **3D perception for physical AI:** object segmentation, tracking, re-localization, and scene understanding.
-* **Robot learning and visuomotor control:** visual representations for robust, geometry-aware manipulation.
-* **Interpretable and agentic AI:** executable knowledge, repairable policies, and verifier-guided learning systems.
-
-## Research
+## Publications
 
 * **Nautilus: From One Prompt to Plug-and-Play Robot Learning.** *arXiv 2026.* [[arXiv](https://arxiv.org/abs/2605.11665)]<br>
   Yufeng Jin<sup>*</sup>, Jianfei Guo<sup>*</sup>, Xiaogang Jia, <strong><u>Yu Deng</u></strong>, Zechu Li, Han Liu, Weiran Liao, Vignesh Prasad, Mathias Franzius, Gerhard Neumann, Georgia Chalvatzaki.
